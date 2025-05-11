@@ -9,6 +9,8 @@ on:
 jobs:
   update_channels:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # منح إذن الكتابة للمحتويات
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
