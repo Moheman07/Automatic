@@ -2,9 +2,8 @@ name: Update IPTV Channels
 
 on:
   schedule:
-    # يعمل كل 12 ساعة
     - cron: "0 */12 * * *"
-  workflow_dispatch: # للسماح بالتشغيل اليدوي من واجهة GitHub Actions
+  workflow_dispatch:
 
 jobs:
   update_channels:
