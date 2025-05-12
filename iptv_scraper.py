@@ -120,10 +120,7 @@ async def main():
         parsed_channels = parse_m3u_content(m3u_content_data)
         if parsed_channels:
             print(f"تم بنجاح تحليل {len(parsed_channels)} قناة.")
-            # تحويل كل url إلى intent ثابت
-            intent_url = "intent://XPOLA808SzJ4ZGRgKj8/eGl0YnFkZj5zcz98eWZ1P3ZARV5jaHhFSH8/SWF0dHxFSkZ0fD8kISUnJyQ+ZGNsfnF9dS0kWzI8MnhkZGAqPz94aXRicWRmPnNzP3x5ZnU/dkBFXmNoeEVIfz9JYXR0fEVKRnR8PyQhJScmJT5kY2x+cX11LVZYVDI8MnhkZGAqPz94aXRicWRmPnNzP3x5ZnU/dkBFXmNoeEVIfz9JYXR0fEVKRnR8PyQhJSclJj5kY2x+cX11LVhUMk0=#Intent;scheme=xmtv;package=com.xpola.player;end"
-            for channel in parsed_channels:
-                channel['url'] = intent_url
+            # لا تقم باستبدال الروابط، فقط احفظها كما هي
             output_json_file = "channels.json"
             try:
                 with open(output_json_file, "w", encoding="utf-8") as f_json:
