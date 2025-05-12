@@ -3,6 +3,9 @@ from playwright.async_api import async_playwright
 import re
 import requests
 
+def make_intent_url(channel_url):
+    return f"intent://{channel_url}#Intent;scheme=xmtv;package=com.xpola.player;end"
+
 async def get_m3u_url_and_content():
     m3u_url_text = None
     m3u_content = None
@@ -117,7 +120,8 @@ def save_channels_to_m3u(channels, output_file="channels.m3u"):
         for channel in channels:
             name = channel.get("name", "اسم غير معروف")
             url = channel.get("url", "")
-            f.write(f'#EXTINF:-1 tvg-name="{name}",{name}\n{url}\n')
+            intent_url = make_intent_url(url)
+            f.write(f'#EXTINF:-1 tvg-name="{name}",{name}\n{intent_url}\n')
     print(f"تم حفظ القنوات في ملف: {output_file}")
 
 async def main():
@@ -131,7 +135,7 @@ async def main():
             save_channels_to_m3u(parsed_channels)
             print("\nعينة من القنوات المستخرجة:")
             for i, channel in enumerate(parsed_channels[:5]):
-                print(f"  القناة {i+1}: الاسم='{channel['name']}', الرابط='{channel['url']}'")
+                print(f"  القناة {i+1}: الاسم='{channel['name']}', intent='{make_intent_url(channel['url'])}'")
         else:
             print("لم يتم العثور على قنوات أو فشل تحليل محتوى M3U.")
     else:
