@@ -3,9 +3,12 @@ from playwright.async_api import async_playwright
 import re
 import requests
 import json
+import base64
 
 def make_intent_url(channel_url):
-    return f"intent://{channel_url}#Intent;scheme=xmtv;package=com.xpola.player;end"
+    # تشفير الرابط الأصلي إلى base64 بدون newlines
+    b64_url = base64.b64encode(channel_url.encode("utf-8")).decode("utf-8").replace('\n', '')
+    return f"intent://{b64_url}#Intent;scheme=xmtv;package=com.xpola.player;end"
 
 async def get_m3u_url_and_content():
     m3u_url_text = None
@@ -115,6 +118,21 @@ def parse_m3u_content(m3u_content):
             continue
     return channels
 
+def save_channels_to_json(channels, output_file="channels.json"):
+    channels_with_intent = []
+    for channel in channels:
+        name = channel.get("name", "اسم غير معروف")
+        url = channel.get("url", "")
+        intent_url = make_intent_url(url)
+        channels_with_intent.append({
+            "name": name,
+            "intent_url": intent_url,
+            "original_m3u_url": url
+        })
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(channels_with_intent, f, ensure_ascii=False, indent=2)
+    print(f"تم حفظ القنوات في ملف: {output_file}")
+
 def save_channels_to_m3u(channels, output_file="channels.m3u"):
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
@@ -125,17 +143,6 @@ def save_channels_to_m3u(channels, output_file="channels.m3u"):
             f.write(f'#EXTINF:-1 tvg-name="{name}",{name}\n{intent_url}\n')
     print(f"تم حفظ القنوات في ملف: {output_file}")
 
-def save_channels_to_json(channels, output_file="channels.json"):
-    channels_with_intent = []
-    for channel in channels:
-        name = channel.get("name", "اسم غير معروف")
-        url = channel.get("url", "")
-        intent_url = make_intent_url(url)
-        channels_with_intent.append({"name": name, "url": intent_url})
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(channels_with_intent, f, ensure_ascii=False, indent=2)
-    print(f"تم حفظ القنوات في ملف: {output_file}")
-
 async def main():
     print("بدء عملية جلب وتحليل IPTV...")
     m3u_url, m3u_content_data = await get_m3u_url_and_content()
@@ -144,8 +151,8 @@ async def main():
         parsed_channels = parse_m3u_content(m3u_content_data)
         if parsed_channels:
             print(f"تم بنجاح تحليل {len(parsed_channels)} قناة.")
-            save_channels_to_m3u(parsed_channels)
             save_channels_to_json(parsed_channels)
+            save_channels_to_m3u(parsed_channels)
             print("\nعينة من القنوات المستخرجة:")
             for i, channel in enumerate(parsed_channels[:5]):
                 print(f"  القناة {i+1}: الاسم='{channel['name']}', intent='{make_intent_url(channel['url'])}'")
