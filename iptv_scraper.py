@@ -2,7 +2,6 @@ import asyncio
 from playwright.async_api import async_playwright
 import re
 import requests
-import json
 
 async def get_m3u_url_and_content():
     m3u_url_text = None
@@ -63,7 +62,7 @@ async def get_m3u_url_and_content():
             print(f"خطأ في استخراج رابط M3U من وسم <code>: {e}")
             print("محاولة استخراج رابط M3U باستخدام البحث العام في الصفحة...")
             page_content_for_regex = await page.content()
-            match = re.search(r'(https://xtream\.storesat\.vip/get\.php\?[^\s\'"]*type=m3u[8]?)', page_content_for_regex)
+            match = re.search(r'(https://xtream\\.storesat\\.vip/get\\.php\\?[^\s\'\"]*type=m3u[8]?)', page_content_for_regex)
             if match:
                 m3u_url_text = match.group(1)
                 print(f"تم العثور على رابط M3U باستخدام البحث العام: {m3u_url_text}")
@@ -112,6 +111,15 @@ def parse_m3u_content(m3u_content):
             continue
     return channels
 
+def save_channels_to_m3u(channels, output_file="channels.m3u"):
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n")
+        for channel in channels:
+            name = channel.get("name", "اسم غير معروف")
+            url = channel.get("url", "")
+            f.write(f'#EXTINF:-1 tvg-name="{name}",{name}\n{url}\n')
+    print(f"تم حفظ القنوات في ملف: {output_file}")
+
 async def main():
     print("بدء عملية جلب وتحليل IPTV...")
     m3u_url, m3u_content_data = await get_m3u_url_and_content()
@@ -120,14 +128,7 @@ async def main():
         parsed_channels = parse_m3u_content(m3u_content_data)
         if parsed_channels:
             print(f"تم بنجاح تحليل {len(parsed_channels)} قناة.")
-            # لا تقم باستبدال الروابط، فقط احفظها كما هي
-            output_json_file = "channels.json"
-            try:
-                with open(output_json_file, "w", encoding="utf-8") as f_json:
-                    json.dump(parsed_channels, f_json, ensure_ascii=False, indent=2)
-                print(f"تم حفظ قائمة القنوات في ملف: {output_json_file}")
-            except IOError as e:
-                print(f"خطأ في حفظ ملف JSON: {e}")
+            save_channels_to_m3u(parsed_channels)
             print("\nعينة من القنوات المستخرجة:")
             for i, channel in enumerate(parsed_channels[:5]):
                 print(f"  القناة {i+1}: الاسم='{channel['name']}', الرابط='{channel['url']}'")
