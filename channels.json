@@ -1,1442 +1,1442 @@
 [
   {
     "name": "beIN SPORTS 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xLm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/1.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xLm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/1.m3u8"
   },
   {
     "name": "beIN SPORTS 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8yLm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/2.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8yLm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/2.m3u8"
   },
   {
     "name": "beIN SPORTS 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8zLm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/3.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8zLm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/3.m3u8"
   },
   {
     "name": "beIN SPORTS 4",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi80Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/4.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti80Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/4.m3u8"
   },
   {
     "name": "beIN SPORTS 5",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/5.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/5.m3u8"
   },
   {
     "name": "beIN SPORTS 6",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/6.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/6.m3u8"
   },
   {
     "name": "beIN SPORTS 7",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi83Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/7.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti83Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/7.m3u8"
   },
   {
     "name": "beIN SPORTS 8",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi84Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/8.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti84Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/8.m3u8"
   },
   {
     "name": "beIN SPORTS 9",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi85Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/9.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti85Lm0zdTg=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/9.m3u8"
   },
   {
     "name": "beIN XTRA 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/10.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/10.m3u8"
   },
   {
     "name": "beIN XTRA 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/11.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/11.m3u8"
   },
   {
     "name": "beIN XTRA 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/12.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/12.m3u8"
   },
   {
     "name": "beIN France 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/13.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/13.m3u8"
   },
   {
     "name": "beIN France 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/14.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/14.m3u8"
   },
   {
     "name": "beIN France 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/15.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/15.m3u8"
   },
   {
     "name": "beIN English 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/16.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/16.m3u8"
   },
   {
     "name": "beIN English 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/17.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/17.m3u8"
   },
   {
     "name": "beIN SPORTS 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xOC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/18.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xOC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/18.m3u8"
   },
   {
     "name": "beIN SPORTS 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xOS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/19.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xOS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/19.m3u8"
   },
   {
     "name": "beIN SPORTS 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8yMC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/20.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8yMC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/20.m3u8"
   },
   {
     "name": "beIN SPORTS 4",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8yMS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/21.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8yMS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/21.m3u8"
   },
   {
     "name": "beIN SPORTS 5",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8yMi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/22.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8yMi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/22.m3u8"
   },
   {
     "name": "beIN SPORTS 6",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8yMy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/23.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8yMy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/23.m3u8"
   },
   {
     "name": "beIN SPORTS 7",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8yNC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/24.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8yNC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/24.m3u8"
   },
   {
     "name": "beIN SPORTS 8",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8yNS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/25.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8yNS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/25.m3u8"
   },
   {
     "name": "beIN SPORTS 9",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8yNi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/26.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8yNi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/26.m3u8"
   },
   {
     "name": "beIN XTRA 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8yNy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/27.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8yNy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/27.m3u8"
   },
   {
     "name": "beIN XTRA 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8yOC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/28.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8yOC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/28.m3u8"
   },
   {
     "name": "beIN XTRA 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8yOS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/29.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8yOS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/29.m3u8"
   },
   {
     "name": "beIN France 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8zMC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/30.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8zMC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/30.m3u8"
   },
   {
     "name": "beIN France 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8zMS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/31.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8zMS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/31.m3u8"
   },
   {
     "name": "beIN France 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8zMi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/32.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8zMi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/32.m3u8"
   },
   {
     "name": "beIN English 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8zMy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/33.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8zMy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/33.m3u8"
   },
   {
     "name": "beIN English 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8zNC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/34.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8zNC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/34.m3u8"
   },
   {
     "name": "beIN SPORTS 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8zNS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/35.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8zNS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/35.m3u8"
   },
   {
     "name": "beIN SPORTS 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8zNi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/36.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8zNi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/36.m3u8"
   },
   {
     "name": "beIN SPORTS 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8zNy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/37.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8zNy5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/37.m3u8"
   },
   {
     "name": "beIN SPORTS 4",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8zOC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/38.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8zOC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/38.m3u8"
   },
   {
     "name": "beIN SPORTS 5",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8zOS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/39.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8zOS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/39.m3u8"
   },
   {
     "name": "beIN SPORTS 6",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi80MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/40.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti80MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/40.m3u8"
   },
   {
     "name": "beIN SPORTS 7",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi80MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/41.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti80MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/41.m3u8"
   },
   {
     "name": "beIN SPORTS 8",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi80Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/42.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti80Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/42.m3u8"
   },
   {
     "name": "beIN SPORTS 9",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi80My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/43.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti80My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/43.m3u8"
   },
   {
     "name": "beIN XTRA 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi80NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/44.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti80NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/44.m3u8"
   },
   {
     "name": "beIN XTRA 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi80NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/45.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti80NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/45.m3u8"
   },
   {
     "name": "beIN XTRA 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi80Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/46.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti80Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/46.m3u8"
   },
   {
     "name": "beIN France 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi80Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/47.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti80Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/47.m3u8"
   },
   {
     "name": "beIN France 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi80OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/48.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti80OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/48.m3u8"
   },
   {
     "name": "beIN France 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi80OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/49.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti80OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/49.m3u8"
   },
   {
     "name": "beIN English 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/50.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/50.m3u8"
   },
   {
     "name": "beIN English 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/51.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/51.m3u8"
   },
   {
     "name": "beIN SPORTS 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/52.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/52.m3u8"
   },
   {
     "name": "beIN SPORTS 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/53.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/53.m3u8"
   },
   {
     "name": "beIN SPORTS 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/54.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/54.m3u8"
   },
   {
     "name": "beIN SPORTS 4",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/55.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/55.m3u8"
   },
   {
     "name": "beIN SPORTS 5",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/56.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/56.m3u8"
   },
   {
     "name": "beIN SPORTS 6",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/57.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/57.m3u8"
   },
   {
     "name": "beIN SPORTS 7",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/58.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/58.m3u8"
   },
   {
     "name": "beIN SPORTS 8",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/59.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/59.m3u8"
   },
   {
     "name": "beIN SPORTS 9",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/60.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/60.m3u8"
   },
   {
     "name": "beIN XTRA 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/61.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/61.m3u8"
   },
   {
     "name": "beIN XTRA 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/62.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/62.m3u8"
   },
   {
     "name": "beIN XTRA 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/63.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/63.m3u8"
   },
   {
     "name": "beIN France 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/64.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/64.m3u8"
   },
   {
     "name": "beIN France 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/65.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/65.m3u8"
   },
   {
     "name": "beIN France 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/66.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/66.m3u8"
   },
   {
     "name": "beIN English 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/67.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/67.m3u8"
   },
   {
     "name": "beIN English 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/68.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/68.m3u8"
   },
   {
     "name": "beIN News",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/69.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/69.m3u8"
   },
   {
     "name": "beIN SPORTS",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi83MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/70.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti83MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/70.m3u8"
   },
   {
     "name": "beIN Boomerang",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi83MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/71.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti83MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/71.m3u8"
   },
   {
     "name": "beIN Jeem",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi83Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/72.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti83Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/72.m3u8"
   },
   {
     "name": "beIN Baraem",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi83My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/73.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti83My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/73.m3u8"
   },
   {
     "name": "beIN Fatafeat",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi83NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/74.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti83NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/74.m3u8"
   },
   {
     "name": "beIN Drama",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi83NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/75.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti83NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/75.m3u8"
   },
   {
     "name": "beIN Gourmet",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi83Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/76.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti83Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/76.m3u8"
   },
   {
     "name": "beIN Series 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi83Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/77.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti83Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/77.m3u8"
   },
   {
     "name": "beIN Series 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi83OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/78.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti83OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/78.m3u8"
   },
   {
     "name": "beIN Movies 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi83OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/79.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti83OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/79.m3u8"
   },
   {
     "name": "beIN Movies 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi84MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/80.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti84MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/80.m3u8"
   },
   {
     "name": "beIN Movies 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi84MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/81.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti84MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/81.m3u8"
   },
   {
     "name": "beIN Movies 4",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi84Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/82.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti84Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/82.m3u8"
   },
   {
     "name": "beIN BOX OFFICE",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi84My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/83.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti84My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/83.m3u8"
   },
   {
     "name": "SSC News",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi84NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/84.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti84NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/84.m3u8"
   },
   {
     "name": "SSC 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi84NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/85.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti84NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/85.m3u8"
   },
   {
     "name": "SSC 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi84Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/86.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti84Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/86.m3u8"
   },
   {
     "name": "SSC 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi84Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/87.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti84Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/87.m3u8"
   },
   {
     "name": "SSC 4",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi84OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/88.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti84OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/88.m3u8"
   },
   {
     "name": "SSC 5",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi84OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/89.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti84OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/89.m3u8"
   },
   {
     "name": "SSC Extra 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi85MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/90.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti85MC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/90.m3u8"
   },
   {
     "name": "SSC Extra 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi85MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/91.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti85MS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/91.m3u8"
   },
   {
     "name": "SSC Extra 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi85Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/92.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti85Mi5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/92.m3u8"
   },
   {
     "name": "AD Sports 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi85My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/93.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti85My5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/93.m3u8"
   },
   {
     "name": "AD Sports 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi85NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/94.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti85NC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/94.m3u8"
   },
   {
     "name": "YAS Sports",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi85NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/95.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti85NS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/95.m3u8"
   },
   {
     "name": "Alkass 1 Auto",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi85Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/96.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti85Ni5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/96.m3u8"
   },
   {
     "name": "Alkass 2 Auto",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi85Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/97.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti85Ny5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/97.m3u8"
   },
   {
     "name": "Alkass 3 Auto",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi85OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/98.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti85OC5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/98.m3u8"
   },
   {
     "name": "Alkass 4 Auto",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi85OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/99.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti85OS5tM3U4#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/99.m3u8"
   },
   {
     "name": "Alkass Shoof Auto",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMDAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/100.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMDAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/100.m3u8"
   },
   {
     "name": "Alkass 6 Auto",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMDEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/101.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMDEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/101.m3u8"
   },
   {
     "name": "Bahrain TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MDYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/606.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MDYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/606.m3u8"
   },
   {
     "name": "CBC Drama TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81MTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/517.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81MTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/517.m3u8"
   },
   {
     "name": "On Time Sport 1 SD",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMDQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/104.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMDQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/104.m3u8"
   },
   {
     "name": "On Time Sport 1 HD",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMDUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/105.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMDUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/105.m3u8"
   },
   {
     "name": "On Time Sport 2 SD",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMDYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/106.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMDYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/106.m3u8"
   },
   {
     "name": "On Time Sport 2 HD",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMDcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/107.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMDcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/107.m3u8"
   },
   {
     "name": "Jordan Sport TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMDgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/108.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMDgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/108.m3u8"
   },
   {
     "name": "Alkass 1 720p",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81NjgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/568.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81NjgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/568.m3u8"
   },
   {
     "name": "Alkass 1 480p",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81NjkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/569.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81NjkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/569.m3u8"
   },
   {
     "name": "Dubai Sports 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/111.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/111.m3u8"
   },
   {
     "name": "Dubai Sports 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMTIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/112.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMTIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/112.m3u8"
   },
   {
     "name": "Dubai Sports 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMTMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/113.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMTMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/113.m3u8"
   },
   {
     "name": "Bahrain Sports 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/114.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/114.m3u8"
   },
   {
     "name": "Bahrain Sports 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/115.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/115.m3u8"
   },
   {
     "name": "Oman Sport",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/116.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/116.m3u8"
   },
   {
     "name": "Al Ahly Egypt TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/117.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/117.m3u8"
   },
   {
     "name": "Zamalek Egypt TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/118.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/118.m3u8"
   },
   {
     "name": "Alkass 5 720p",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81ODAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/580.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81ODAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/580.m3u8"
   },
   {
     "name": "MBC 1",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMjAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/120.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMjAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/120.m3u8"
   },
   {
     "name": "MBC 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMjEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/121.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMjEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/121.m3u8"
   },
   {
     "name": "MBC 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMjIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/122.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMjIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/122.m3u8"
   },
   {
     "name": "MBC 4",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/123.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/123.m3u8"
   },
   {
     "name": "MBC 5",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMjQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/124.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMjQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/124.m3u8"
   },
   {
     "name": "MBC Action",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMjUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/125.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMjUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/125.m3u8"
   },
   {
     "name": "MBC Bollywood",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMjYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/126.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMjYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/126.m3u8"
   },
   {
     "name": "MBC Iraq",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMjcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/127.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMjcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/127.m3u8"
   },
   {
     "name": "MBC Masr",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMjgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/128.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMjgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/128.m3u8"
   },
   {
     "name": "MBC Masr 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMjkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/129.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMjkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/129.m3u8"
   },
   {
     "name": "MBC Drama",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMzAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/130.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMzAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/130.m3u8"
   },
   {
     "name": "MBC Drama Plus",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMzEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/131.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMzEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/131.m3u8"
   },
   {
     "name": "Mosalsalat Ramadan 2025",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81ODgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/588.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81ODgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/588.m3u8"
   },
   {
     "name": "MBC Persia",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMzIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/132.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMzIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/132.m3u8"
   },
   {
     "name": "MBC MAX",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMzMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/133.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMzMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/133.m3u8"
   },
   {
     "name": "MBC Masr US",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMzQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/134.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMzQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/134.m3u8"
   },
   {
     "name": "Aflam TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMzUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/135.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMzUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/135.m3u8"
   },
   {
     "name": "Masrah Masr TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMzYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/136.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMzYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/136.m3u8"
   },
   {
     "name": "Movies Thriller TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMzcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/137.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMzcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/137.m3u8"
   },
   {
     "name": "Tarab TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMzgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/138.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMzgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/138.m3u8"
   },
   {
     "name": "Movies Action TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xMzkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/139.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xMzkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/139.m3u8"
   },
   {
     "name": "Majid Al Mohandis TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81NjIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/562.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81NjIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/562.m3u8"
   },
   {
     "name": "Rotana Classic",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81MjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/523.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81MjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/523.m3u8"
   },
   {
     "name": "Rotana Classic",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNDEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/141.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNDEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/141.m3u8"
   },
   {
     "name": "Rotana Cinema",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNDIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/142.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNDIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/142.m3u8"
   },
   {
     "name": "Rotana Clip",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNDMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/143.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNDMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/143.m3u8"
   },
   {
     "name": "MIX Hollywood TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNDQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/144.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNDQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/144.m3u8"
   },
   {
     "name": "MIX Turkish TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNDUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/145.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNDUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/145.m3u8"
   },
   {
     "name": "Zee Aflam",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNDYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/146.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNDYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/146.m3u8"
   },
   {
     "name": "MBC MAX",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNDcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/147.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNDcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/147.m3u8"
   },
   {
     "name": "Weyyak Drama",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNDkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/149.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNDkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/149.m3u8"
   },
   {
     "name": "MBC Drama",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNTAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/150.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNTAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/150.m3u8"
   },
   {
     "name": "MBC Drama Plus",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/151.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/151.m3u8"
   },
   {
     "name": "TL TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81NjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/563.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81NjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/563.m3u8"
   },
   {
     "name": "MBC 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81MjUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/525.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81MjUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/525.m3u8"
   },
   {
     "name": "MBC Action",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81MjYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/526.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81MjYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/526.m3u8"
   },
   {
     "name": "Panorama Drama",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/154.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/154.m3u8"
   },
   {
     "name": "ON Drama",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/155.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/155.m3u8"
   },
   {
     "name": "DMC Drama",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/156.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/156.m3u8"
   },
   {
     "name": "Spacetoon",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MTIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/612.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MTIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/612.m3u8"
   },
   {
     "name": "Nile Drama",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/158.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/158.m3u8"
   },
   {
     "name": "Zee Alwan",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNTkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/159.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNTkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/159.m3u8"
   },
   {
     "name": "Weyyak Drama",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNjAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/160.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNjAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/160.m3u8"
   },
   {
     "name": "Weyyak Action",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNjEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/161.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNjEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/161.m3u8"
   },
   {
     "name": "Weyyak Mix",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNjIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/162.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNjIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/162.m3u8"
   },
   {
     "name": "Weyyak Nawaem",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/163.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/163.m3u8"
   },
   {
     "name": "Weyyak Ten",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNjQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/164.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNjQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/164.m3u8"
   },
   {
     "name": "Weyyak Zee Alwan",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNjUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/165.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNjUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/165.m3u8"
   },
   {
     "name": "Weyyak Zee Aflam",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNjYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/166.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNjYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/166.m3u8"
   },
   {
     "name": "Al Jazeera News",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNjcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/167.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNjcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/167.m3u8"
   },
   {
     "name": "Al Jazeera Mubasher",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNjgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/168.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNjgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/168.m3u8"
   },
   {
     "name": "Al Arabiya",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNjkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/169.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNjkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/169.m3u8"
   },
   {
     "name": "DW Arabic",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNzAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/170.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNzAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/170.m3u8"
   },
   {
     "name": "Syria TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNzEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/171.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNzEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/171.m3u8"
   },
   {
     "name": "Azhari TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MTAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/610.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MTAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/610.m3u8"
   },
   {
     "name": "Al-Araby TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNzIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/172.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNzIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/172.m3u8"
   },
   {
     "name": "Al Hiwar Channel",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNzMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/173.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNzMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/173.m3u8"
   },
   {
     "name": "Al Mayadeen",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNzQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/174.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNzQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/174.m3u8"
   },
   {
     "name": "Oman Culture TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/617.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/617.m3u8"
   },
   {
     "name": "Sky News Arabia",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNzUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/175.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNzUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/175.m3u8"
   },
   {
     "name": "Al Emarat TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/594.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/594.m3u8"
   },
   {
     "name": "Alalam News",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNzYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/176.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNzYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/176.m3u8"
   },
   {
     "name": "Russia Today",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNzgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/178.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNzgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/178.m3u8"
   },
   {
     "name": "TRT Arabic",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xNzkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/179.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xNzkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/179.m3u8"
   },
   {
     "name": "Mekameleen TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xODAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/180.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xODAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/180.m3u8"
   },
   {
     "name": "Asharq News",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xODEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/181.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xODEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/181.m3u8"
   },
   {
     "name": "El Sharq TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xODIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/182.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xODIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/182.m3u8"
   },
   {
     "name": "BBC News Arabic",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xODMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/183.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xODMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/183.m3u8"
   },
   {
     "name": "Alhurra TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xODQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/184.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xODQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/184.m3u8"
   },
   {
     "name": "Al Hadath News",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xODUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/185.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xODUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/185.m3u8"
   },
   {
     "name": "Al Qahera News",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MzIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/632.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MzIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/632.m3u8"
   },
   {
     "name": "Noursat TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MzMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/633.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MzMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/633.m3u8"
   },
   {
     "name": "Sat7",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MzQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/634.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MzQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/634.m3u8"
   },
   {
     "name": "Al Jazeera Documentary",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/614.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/614.m3u8"
   },
   {
     "name": "Oman Live",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/616.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/616.m3u8"
   },
   {
     "name": "Al Rayyan TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OTIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/592.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OTIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/592.m3u8"
   },
   {
     "name": "Abu Dhabi TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OTMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/593.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OTMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/593.m3u8"
   },
   {
     "name": "CGTN Arabic",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xOTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/191.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xOTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/191.m3u8"
   },
   {
     "name": "TEN TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xOTIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/192.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xOTIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/192.m3u8"
   },
   {
     "name": "Rotana Khalejia",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NDcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/647.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NDcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/647.m3u8"
   },
   {
     "name": "Qatar TV 2",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/591.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/591.m3u8"
   },
   {
     "name": "Al Jazeera Eglish",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xOTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/194.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xOTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/194.m3u8"
   },
   {
     "name": "Qatar TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OTAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/590.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OTAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/590.m3u8"
   },
   {
     "name": "TRT World",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xOTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/195.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xOTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/195.m3u8"
   },
   {
     "name": "CNN International",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xOTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/196.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xOTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/196.m3u8"
   },
   {
     "name": "Press TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xOTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/197.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xOTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/197.m3u8"
   },
   {
     "name": "RT English",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xOTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/198.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xOTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/198.m3u8"
   },
   {
     "name": "Sky News",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi8xOTkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/199.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti8xOTkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/199.m3u8"
   },
   {
     "name": "Fayrouz TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82ODYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/686.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82ODYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/686.m3u8"
   },
   {
     "name": "Nature Time TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82ODUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/685.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82ODUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/685.m3u8"
   },
   {
     "name": "Top Chef TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82ODQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/684.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82ODQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/684.m3u8"
   },
   {
     "name": "Qur’an Kareem Qatar",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82ODMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/683.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82ODMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/683.m3u8"
   },
   {
     "name": "Qur’an Kareem Cairo",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82ODAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/680.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82ODAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/680.m3u8"
   },
   {
     "name": "Qur’an Radio Mecca",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82ODEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/681.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82ODEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/681.m3u8"
   },
   {
     "name": "Nidaa Al-Islam Radio",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82ODIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/682.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82ODIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/682.m3u8"
   },
   {
     "name": "Al-Sunnah TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NzgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/678.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NzgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/678.m3u8"
   },
   {
     "name": "Abdul Basit Abdul Samad Radio",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NzcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/677.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NzcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/677.m3u8"
   },
   {
     "name": "Dabanga Sudan TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NzUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/675.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NzUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/675.m3u8"
   },
   {
     "name": "Africa 1TV Quran",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NzQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/674.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NzQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/674.m3u8"
   },
   {
     "name": "Africa 2TV Quran",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NzMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/673.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NzMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/673.m3u8"
   },
   {
     "name": "Sudan TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NzIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/672.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NzIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/672.m3u8"
   },
   {
     "name": "MEDI1 TV Arabic",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NzEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/671.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NzEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/671.m3u8"
   },
   {
     "name": "Nessma TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NjkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/669.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NjkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/669.m3u8"
   },
   {
     "name": "2M Maroc",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NzAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/670.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NzAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/670.m3u8"
   },
   {
     "name": "El Bilad TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NjgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/668.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NjgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/668.m3u8"
   },
   {
     "name": "CBC Sofra",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NjcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/667.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NjcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/667.m3u8"
   },
   {
     "name": "CBC TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NjYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/666.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NjYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/666.m3u8"
   },
   {
     "name": "DMC TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NjUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/665.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NjUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/665.m3u8"
   },
   {
     "name": "On E",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NjQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/664.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NjQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/664.m3u8"
   },
   {
     "name": "Lana TV Syria",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NjIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/662.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NjIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/662.m3u8"
   },
   {
     "name": "Alqanat 9 TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/663.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/663.m3u8"
   },
   {
     "name": "Syria 2 TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NjEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/661.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NjEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/661.m3u8"
   },
   {
     "name": "Tele Liban",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NjAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/660.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NjAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/660.m3u8"
   },
   {
     "name": "Future TV Lebanon",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NTkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/659.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NTkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/659.m3u8"
   },
   {
     "name": "Jordan TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/658.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/658.m3u8"
   },
   {
     "name": "Jordan Drama TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/657.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/657.m3u8"
   },
   {
     "name": "Roya TV Jordan",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/656.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/656.m3u8"
   },
   {
     "name": "Maan News TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/655.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/655.m3u8"
   },
   {
     "name": "Falastini TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NTMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/653.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NTMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/653.m3u8"
   },
   {
     "name": "Musawa TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/654.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NTQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/654.m3u8"
   },
   {
     "name": "Kol Alnas TV Palestine",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NTIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/652.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NTIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/652.m3u8"
   },
   {
     "name": "Palestine TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/651.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/651.m3u8"
   },
   {
     "name": "Palestine Today TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NTAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/650.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NTAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/650.m3u8"
   },
   {
     "name": "CNBC Arabia",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NDkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/649.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NDkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/649.m3u8"
   },
   {
     "name": "DW Arabia",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NDgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/648.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NDgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/648.m3u8"
   },
   {
     "name": "Nile Cinema",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NDYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/646.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NDYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/646.m3u8"
   },
   {
     "name": "El Quran El Kareem TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NDUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/645.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NDUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/645.m3u8"
   },
   {
     "name": "Oman Quran Kareem",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NDMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/643.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NDMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/643.m3u8"
   },
   {
     "name": "Iran International TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NDQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/644.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NDQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/644.m3u8"
   },
   {
     "name": "Eman TV English",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NDIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/642.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NDIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/642.m3u8"
   },
   {
     "name": "Alhorreya TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NDEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/641.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NDEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/641.m3u8"
   },
   {
     "name": "Alkeraza TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82NDAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/640.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82NDAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/640.m3u8"
   },
   {
     "name": "The Grace TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MzgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/638.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MzgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/638.m3u8"
   },
   {
     "name": "Alkarma TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MzkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/639.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MzkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/639.m3u8"
   },
   {
     "name": "Aghapy TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MzcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/637.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MzcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/637.m3u8"
   },
   {
     "name": "Miracle TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MzYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/636.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MzYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/636.m3u8"
   },
   {
     "name": "Iraqia News",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MzEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/631.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MzEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/631.m3u8"
   },
   {
     "name": "Sahara 24 TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MzAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/630.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MzAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/630.m3u8"
   },
   {
     "name": "Rotana Aflam+",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MjkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/629.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MjkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/629.m3u8"
   },
   {
     "name": "Yemen Today TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MjgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/628.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MjgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/628.m3u8"
   },
   {
     "name": "gulli bil arabi",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MjcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/627.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MjcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/627.m3u8"
   },
   {
     "name": "Taha TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MjYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/626.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MjYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/626.m3u8"
   },
   {
     "name": "MBC 3",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MjQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/624.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MjQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/624.m3u8"
   },
   {
     "name": "Amou Yazid TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MjUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/625.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MjUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/625.m3u8"
   },
   {
     "name": "Atfal & Mawaheb",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/623.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MjMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/623.m3u8"
   },
   {
     "name": "KTV Arabe",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MjIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/622.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MjIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/622.m3u8"
   },
   {
     "name": "Thaqafeyah TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MjEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/621.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MjEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/621.m3u8"
   },
   {
     "name": "Asharq Documentary",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MjAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/620.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MjAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/620.m3u8"
   },
   {
     "name": "Asharq Discovery",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MTkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/619.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MTkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/619.m3u8"
   },
   {
     "name": "National Geographic Abu Dhabi",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/618.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/618.m3u8"
   },
   {
     "name": "Nile Sport",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81ODYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/586.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81ODYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/586.m3u8"
   },
   {
     "name": "MBC Drama Masr",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81ODkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/589.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81ODkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/589.m3u8"
   },
   {
     "name": "Dubai TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/595.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/595.m3u8"
   },
   {
     "name": "Sama Dubai TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/596.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OTYubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/596.m3u8"
   },
   {
     "name": "Ajman Tv",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/597.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OTcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/597.m3u8"
   },
   {
     "name": "Al Dafrah TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/598.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OTgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/598.m3u8"
   },
   {
     "name": "Al Fujairah TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi81OTkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/599.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti81OTkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/599.m3u8"
   },
   {
     "name": "Sharjah TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MDAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/600.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MDAubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/600.m3u8"
   },
   {
     "name": "Kuwait TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MDEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/601.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MDEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/601.m3u8"
   },
   {
     "name": "Oman TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/615.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MTUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/615.m3u8"
   },
   {
     "name": "Saudi TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MDIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/602.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MDIubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/602.m3u8"
   },
   {
     "name": "Kuwait 2 TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MDMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/603.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MDMubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/603.m3u8"
   },
   {
     "name": "Al Manar TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MDQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/604.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MDQubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/604.m3u8"
   },
   {
     "name": "Sharjah Sports",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MDUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/605.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MDUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/605.m3u8"
   },
   {
     "name": "Sharjah Quran Kareem",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MDcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/607.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MDcubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/607.m3u8"
   },
   {
     "name": "Macca TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MDgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/608.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MDgubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/608.m3u8"
   },
   {
     "name": "Bahrain Quran TV",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MDkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/609.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MDkubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/609.m3u8"
   },
   {
     "name": "Yemen Shabab",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/611.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MTEubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/611.m3u8"
   },
   {
     "name": "MTA Al Qur'an",
-    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9XOW9wTDhQTzUxL2lxSFhzcG54cnlTQi82MzUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-    "original_m3u_url": "https://xtream.storesat.vip:443//live/W9opL8PO51/iqHXspnxrySB/635.m3u8"
+    "intent_url": "intent://aHR0cHM6Ly94dHJlYW0uc3RvcmVzYXQudmlwOjQ0My8vbGl2ZS9EUW56SmdQSkpLL1VIZXVHRFFucnd0Ti82MzUubTN1OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "original_m3u_url": "https://xtream.storesat.vip:443//live/DQnzJgPJJK/UHeuGDQnrwtN/635.m3u8"
   }
 ]
